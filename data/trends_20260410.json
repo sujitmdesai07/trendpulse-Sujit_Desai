@@ -1,0 +1,659 @@
+[
+  {
+    "post_id": 47719486,
+    "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+    "category": "technology",
+    "score": 142,
+    "num_comments": 53,
+    "author": "Teever",
+    "collected_at": "2026-04-10 16:39:51"
+  },
+  {
+    "post_id": 47708697,
+    "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
+    "category": "technology",
+    "score": 23,
+    "num_comments": 5,
+    "author": "qvac",
+    "collected_at": "2026-04-10 16:39:51"
+  },
+  {
+    "post_id": 47707632,
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "category": "technology",
+    "score": 190,
+    "num_comments": 103,
+    "author": "stopachka",
+    "collected_at": "2026-04-10 16:39:51"
+  },
+  {
+    "post_id": 47695666,
+    "title": "Show HN: Druids \u2013 Build your own software factory",
+    "category": "technology",
+    "score": 57,
+    "num_comments": 12,
+    "author": "etherio",
+    "collected_at": "2026-04-10 16:39:52"
+  },
+  {
+    "post_id": 47695012,
+    "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+    "category": "technology",
+    "score": 401,
+    "num_comments": 48,
+    "author": "WerWolv",
+    "collected_at": "2026-04-10 16:39:53"
+  },
+  {
+    "post_id": 47651764,
+    "title": "How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling",
+    "category": "technology",
+    "score": 29,
+    "num_comments": 7,
+    "author": "LabsLucas",
+    "collected_at": "2026-04-10 16:39:53"
+  },
+  {
+    "post_id": 47679121,
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "category": "technology",
+    "score": 1525,
+    "num_comments": 832,
+    "author": "Ryan5453",
+    "collected_at": "2026-04-10 16:39:53"
+  },
+  {
+    "post_id": 47689237,
+    "title": "US cities are axing Flock Safety surveillance technology",
+    "category": "technology",
+    "score": 755,
+    "num_comments": 427,
+    "author": "giuliomagnifico",
+    "collected_at": "2026-04-10 16:39:53"
+  },
+  {
+    "post_id": 47718458,
+    "title": "Tech job relocation market is recovering. The competition is growing faster",
+    "category": "technology",
+    "score": 40,
+    "num_comments": 64,
+    "author": "andrewstetsenko",
+    "collected_at": "2026-04-10 16:39:54"
+  },
+  {
+    "post_id": 47661038,
+    "title": "Show HN: I built a navigation app that displays weather along the route",
+    "category": "technology",
+    "score": 55,
+    "num_comments": 25,
+    "author": "vkatluri",
+    "collected_at": "2026-04-10 16:39:54"
+  },
+  {
+    "post_id": 47670981,
+    "title": "Three hundred synths, 3 hardware projects, and one app",
+    "category": "technology",
+    "score": 125,
+    "num_comments": 19,
+    "author": "ductionist",
+    "collected_at": "2026-04-10 16:39:55"
+  },
+  {
+    "post_id": 47680309,
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "category": "technology",
+    "score": 230,
+    "num_comments": 28,
+    "author": "MediaSquirrel",
+    "collected_at": "2026-04-10 16:39:55"
+  },
+  {
+    "post_id": 47699086,
+    "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+    "category": "technology",
+    "score": 65,
+    "num_comments": 74,
+    "author": "gardaani",
+    "collected_at": "2026-04-10 16:39:55"
+  },
+  {
+    "post_id": 47676044,
+    "title": "Show HN: Finalrun \u2013 Spec-driven testing using English and vision for mobile apps",
+    "category": "technology",
+    "score": 28,
+    "num_comments": 12,
+    "author": "ashish004",
+    "collected_at": "2026-04-10 16:39:56"
+  },
+  {
+    "post_id": 47706113,
+    "title": "Desalination Technology, by the Numbers",
+    "category": "technology",
+    "score": 16,
+    "num_comments": 1,
+    "author": "Brajeshwar",
+    "collected_at": "2026-04-10 16:39:57"
+  },
+  {
+    "post_id": 47703217,
+    "title": "Apple signs meaningless deal to make some less-important parts in America",
+    "category": "technology",
+    "score": 35,
+    "num_comments": 16,
+    "author": "als0",
+    "collected_at": "2026-04-10 16:39:57"
+  },
+  {
+    "post_id": 47713149,
+    "title": "Apple to shutter its first unionized US store in Maryland",
+    "category": "technology",
+    "score": 18,
+    "num_comments": 5,
+    "author": "golfer",
+    "collected_at": "2026-04-10 16:39:57"
+  },
+  {
+    "post_id": 47667504,
+    "title": "Ask HN: How do you handle marketing as a solo technical founder?",
+    "category": "technology",
+    "score": 139,
+    "num_comments": 103,
+    "author": "lazarkap",
+    "collected_at": "2026-04-10 16:39:57"
+  },
+  {
+    "post_id": 47701971,
+    "title": "AI and remote work is a disaster for junior software engineers",
+    "category": "technology",
+    "score": 17,
+    "num_comments": 8,
+    "author": "gpi",
+    "collected_at": "2026-04-10 16:39:58"
+  },
+  {
+    "post_id": 47661439,
+    "title": "I won't download your app. The web version is a-ok",
+    "category": "technology",
+    "score": 925,
+    "num_comments": 561,
+    "author": "ssiddharth",
+    "collected_at": "2026-04-10 16:39:58"
+  },
+  {
+    "post_id": 47708792,
+    "title": "Apple Is Permanently Closing Three U.S. Stores in June",
+    "category": "technology",
+    "score": 4,
+    "num_comments": 1,
+    "author": "jostylr",
+    "collected_at": "2026-04-10 16:39:59"
+  },
+  {
+    "post_id": 47674234,
+    "title": "\"The new Copilot app for Windows 11 is really just Microsoft Edge\"",
+    "category": "technology",
+    "score": 116,
+    "num_comments": 72,
+    "author": "bundie",
+    "collected_at": "2026-04-10 16:39:59"
+  },
+  {
+    "post_id": 47694303,
+    "title": "The demise of software engineering jobs has been greatly exaggerated",
+    "category": "technology",
+    "score": 19,
+    "num_comments": 5,
+    "author": "ryan_j_naughton",
+    "collected_at": "2026-04-10 16:40:00"
+  },
+  {
+    "post_id": 47681602,
+    "title": "Show HN: Mo \u2013 checks GitHub PRs against decisions approved in Slack",
+    "category": "technology",
+    "score": 10,
+    "num_comments": 3,
+    "author": "oscarcaldera",
+    "collected_at": "2026-04-10 16:40:00"
+  },
+  {
+    "post_id": 47671527,
+    "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
+    "category": "technology",
+    "score": 83,
+    "num_comments": 29,
+    "author": "tosh",
+    "collected_at": "2026-04-10 16:40:00"
+  },
+  {
+    "post_id": 47652322,
+    "title": "Music for Programming",
+    "category": "entertainment",
+    "score": 353,
+    "num_comments": 174,
+    "author": "merusame",
+    "collected_at": "2026-04-10 16:40:10"
+  },
+  {
+    "post_id": 47699105,
+    "title": "Show HN: Image to Music AI \u2013 Turn Any Photo into an Original Soundtrack",
+    "category": "entertainment",
+    "score": 5,
+    "num_comments": 3,
+    "author": "airobus",
+    "collected_at": "2026-04-10 16:40:11"
+  },
+  {
+    "post_id": 47718891,
+    "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+    "category": "AI",
+    "score": 40,
+    "num_comments": 19,
+    "author": "fanf2",
+    "collected_at": "2026-04-10 16:40:17"
+  },
+  {
+    "post_id": 47678844,
+    "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+    "category": "AI",
+    "score": 93,
+    "num_comments": 22,
+    "author": "manzt",
+    "collected_at": "2026-04-10 16:40:17"
+  },
+  {
+    "post_id": 47712656,
+    "title": "We've raised $17M to build what comes after Git",
+    "category": "AI",
+    "score": 256,
+    "num_comments": 555,
+    "author": "ellieh",
+    "collected_at": "2026-04-10 16:40:17"
+  },
+  {
+    "post_id": 47718114,
+    "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+    "category": "AI",
+    "score": 57,
+    "num_comments": 31,
+    "author": "ascold",
+    "collected_at": "2026-04-10 16:40:17"
+  },
+  {
+    "post_id": 47717587,
+    "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+    "category": "AI",
+    "score": 372,
+    "num_comments": 266,
+    "author": "smurda",
+    "collected_at": "2026-04-10 16:40:17"
+  },
+  {
+    "post_id": 47708697,
+    "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
+    "category": "AI",
+    "score": 23,
+    "num_comments": 5,
+    "author": "qvac",
+    "collected_at": "2026-04-10 16:40:17"
+  },
+  {
+    "post_id": 47707632,
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "category": "AI",
+    "score": 190,
+    "num_comments": 103,
+    "author": "stopachka",
+    "collected_at": "2026-04-10 16:40:18"
+  },
+  {
+    "post_id": 47719268,
+    "title": "Born Private: Reserve your child's first email address with Proton",
+    "category": "AI",
+    "score": 11,
+    "num_comments": 8,
+    "author": "teekert",
+    "collected_at": "2026-04-10 16:40:18"
+  },
+  {
+    "post_id": 47674950,
+    "title": "An AI robot in my home",
+    "category": "AI",
+    "score": 61,
+    "num_comments": 28,
+    "author": "kukanani",
+    "collected_at": "2026-04-10 16:40:18"
+  },
+  {
+    "post_id": 47713113,
+    "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
+    "category": "AI",
+    "score": 119,
+    "num_comments": 27,
+    "author": "vermilingua",
+    "collected_at": "2026-04-10 16:40:18"
+  },
+  {
+    "post_id": 47709251,
+    "title": "Netflix Prices Went Up Again \u2013 I Bought a DVD Player Instead",
+    "category": "AI",
+    "score": 238,
+    "num_comments": 262,
+    "author": "speckx",
+    "collected_at": "2026-04-10 16:40:18"
+  },
+  {
+    "post_id": 47701233,
+    "title": "Claude mixes up who said what",
+    "category": "AI",
+    "score": 446,
+    "num_comments": 339,
+    "author": "sixhobbits",
+    "collected_at": "2026-04-10 16:40:18"
+  },
+  {
+    "post_id": 47710782,
+    "title": "The Training Example Lie Bracket",
+    "category": "AI",
+    "score": 30,
+    "num_comments": 16,
+    "author": "pb1729",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47708817,
+    "title": "Maine is about to become the first state to ban major new data centers",
+    "category": "AI",
+    "score": 291,
+    "num_comments": 414,
+    "author": "rmason",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47679121,
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "category": "AI",
+    "score": 1525,
+    "num_comments": 832,
+    "author": "Ryan5453",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47680023,
+    "title": "Tailslayer: Library for reducing tail latency in RAM reads",
+    "category": "AI",
+    "score": 106,
+    "num_comments": 23,
+    "author": "hasheddan",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47708411,
+    "title": "Bitmap fonts make computers feel like computers again",
+    "category": "AI",
+    "score": 107,
+    "num_comments": 80,
+    "author": "speckx",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47696035,
+    "title": "John Deere to pay $99M in right-to-repair settlement",
+    "category": "AI",
+    "score": 387,
+    "num_comments": 127,
+    "author": "CharlesW",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47693679,
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+    "category": "AI",
+    "score": 424,
+    "num_comments": 194,
+    "author": "nickvec",
+    "collected_at": "2026-04-10 16:40:19"
+  },
+  {
+    "post_id": 47704443,
+    "title": "Study found that young adults have grown less hopeful and more angry about AI",
+    "category": "AI",
+    "score": 131,
+    "num_comments": 176,
+    "author": "elsewhen",
+    "collected_at": "2026-04-10 16:40:20"
+  },
+  {
+    "post_id": 47689174,
+    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "category": "AI",
+    "score": 324,
+    "num_comments": 56,
+    "author": "chrsw",
+    "collected_at": "2026-04-10 16:40:20"
+  },
+  {
+    "post_id": 47685945,
+    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
+    "category": "AI",
+    "score": 213,
+    "num_comments": 213,
+    "author": "bundie",
+    "collected_at": "2026-04-10 16:40:20"
+  },
+  {
+    "post_id": 47710919,
+    "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
+    "category": "AI",
+    "score": 18,
+    "num_comments": 15,
+    "author": "Rial_Labs",
+    "collected_at": "2026-04-10 16:40:20"
+  },
+  {
+    "post_id": 47713732,
+    "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
+    "category": "AI",
+    "score": 16,
+    "num_comments": 0,
+    "author": "tzs",
+    "collected_at": "2026-04-10 16:40:20"
+  },
+  {
+    "post_id": 47715291,
+    "title": "Scientists invented a fake disease. AI told people it was real",
+    "category": "AI",
+    "score": 83,
+    "num_comments": 86,
+    "author": "latexr",
+    "collected_at": "2026-04-10 16:40:20"
+  },
+  {
+    "post_id": 47678844,
+    "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+    "category": "programming",
+    "score": 93,
+    "num_comments": 22,
+    "author": "manzt",
+    "collected_at": "2026-04-10 16:40:23"
+  },
+  {
+    "post_id": 47708697,
+    "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
+    "category": "programming",
+    "score": 23,
+    "num_comments": 5,
+    "author": "qvac",
+    "collected_at": "2026-04-10 16:40:23"
+  },
+  {
+    "post_id": 47710835,
+    "title": "Show HN: Rust based eBook library for Python, with MIT license",
+    "category": "programming",
+    "score": 29,
+    "num_comments": 3,
+    "author": "larry-the-agent",
+    "collected_at": "2026-04-10 16:40:24"
+  },
+  {
+    "post_id": 47704285,
+    "title": "Clean code in the age of coding agents",
+    "category": "programming",
+    "score": 57,
+    "num_comments": 85,
+    "author": "yanis_t",
+    "collected_at": "2026-04-10 16:40:25"
+  },
+  {
+    "post_id": 47718804,
+    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+    "category": "programming",
+    "score": 19,
+    "num_comments": 5,
+    "author": "ulrischa",
+    "collected_at": "2026-04-10 16:40:25"
+  },
+  {
+    "post_id": 47663147,
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "category": "programming",
+    "score": 322,
+    "num_comments": 156,
+    "author": "benswerd",
+    "collected_at": "2026-04-10 16:40:27"
+  },
+  {
+    "post_id": 47675155,
+    "title": "You can't cancel a JavaScript promise (except sometimes you can)",
+    "category": "programming",
+    "score": 97,
+    "num_comments": 61,
+    "author": "goodoldneon",
+    "collected_at": "2026-04-10 16:40:30"
+  },
+  {
+    "post_id": 47683376,
+    "title": "JSIR: A High-Level IR for JavaScript",
+    "category": "programming",
+    "score": 84,
+    "num_comments": 32,
+    "author": "nnx",
+    "collected_at": "2026-04-10 16:40:30"
+  },
+  {
+    "post_id": 47697895,
+    "title": "Building a JavaScript runtime in one month",
+    "category": "programming",
+    "score": 16,
+    "num_comments": 7,
+    "author": "franciscop",
+    "collected_at": "2026-04-10 16:40:32"
+  },
+  {
+    "post_id": 47699086,
+    "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+    "category": "programming",
+    "score": 65,
+    "num_comments": 74,
+    "author": "gardaani",
+    "collected_at": "2026-04-10 16:40:32"
+  },
+  {
+    "post_id": 47664912,
+    "title": "The cult of vibe coding is dogfooding run amok",
+    "category": "programming",
+    "score": 615,
+    "num_comments": 508,
+    "author": "drob518",
+    "collected_at": "2026-04-10 16:40:33"
+  },
+  {
+    "post_id": 47689135,
+    "title": "The Empty Middle of AI Coding",
+    "category": "programming",
+    "score": 7,
+    "num_comments": 2,
+    "author": "comma_at",
+    "collected_at": "2026-04-10 16:40:38"
+  },
+  {
+    "post_id": 47674056,
+    "title": "Show HN: Bx \u2013 macOS native sandbox for AI and coding tools",
+    "category": "programming",
+    "score": 7,
+    "num_comments": 0,
+    "author": "holtwick",
+    "collected_at": "2026-04-10 16:40:39"
+  },
+  {
+    "post_id": 47656335,
+    "title": "Does coding with LLMs mean more microservices?",
+    "category": "programming",
+    "score": 63,
+    "num_comments": 61,
+    "author": "jer0me",
+    "collected_at": "2026-04-10 16:40:39"
+  },
+  {
+    "post_id": 47702576,
+    "title": "Leaflet: An open-source JavaScript library for mobile-friendly interactive maps",
+    "category": "programming",
+    "score": 4,
+    "num_comments": 0,
+    "author": "doener",
+    "collected_at": "2026-04-10 16:40:39"
+  },
+  {
+    "post_id": 47708818,
+    "title": "Native Instant Space Switching on macOS",
+    "category": "science",
+    "score": 593,
+    "num_comments": 288,
+    "author": "PaulHoule",
+    "collected_at": "2026-04-10 16:40:42"
+  },
+  {
+    "post_id": 47706141,
+    "title": "Research-Driven Agents: When an agent reads before it codes",
+    "category": "science",
+    "score": 199,
+    "num_comments": 52,
+    "author": "hopechong",
+    "collected_at": "2026-04-10 16:40:42"
+  },
+  {
+    "post_id": 47695012,
+    "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+    "category": "science",
+    "score": 401,
+    "num_comments": 48,
+    "author": "WerWolv",
+    "collected_at": "2026-04-10 16:40:44"
+  },
+  {
+    "post_id": 47651764,
+    "title": "How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling",
+    "category": "science",
+    "score": 29,
+    "num_comments": 7,
+    "author": "LabsLucas",
+    "collected_at": "2026-04-10 16:40:44"
+  },
+  {
+    "post_id": 47712755,
+    "title": "Detox may erase 10 years of social media brain damage, researchers say",
+    "category": "science",
+    "score": 31,
+    "num_comments": 2,
+    "author": "1vuio0pswjnm7",
+    "collected_at": "2026-04-10 16:40:45"
+  },
+  {
+    "post_id": 47665207,
+    "title": "SOM: A minimal Smalltalk for teaching of and research on Virtual Machines",
+    "category": "science",
+    "score": 56,
+    "num_comments": 0,
+    "author": "tosh",
+    "collected_at": "2026-04-10 16:40:48"
+  }
+]

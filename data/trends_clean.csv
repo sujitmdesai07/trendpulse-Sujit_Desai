@@ -1,0 +1,64 @@
+post_id,title,category,score,num_comments,author,collected_at
+47719486,France to ditch Windows for Linux to reduce reliance on US tech,technology,142,53,Teever,2026-04-10 16:39:51
+47708697,"Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",technology,23,5,qvac,2026-04-10 16:39:51
+47707632,"Instant 1.0, a backend for AI-coded apps",technology,190,103,stopachka,2026-04-10 16:39:51
+47695666,Show HN: Druids – Build your own software factory,technology,57,12,etherio,2026-04-10 16:39:52
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,401,48,WerWolv,2026-04-10 16:39:53
+47651764,How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling,technology,29,7,LabsLucas,2026-04-10 16:39:53
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1525,832,Ryan5453,2026-04-10 16:39:53
+47689237,US cities are axing Flock Safety surveillance technology,technology,755,427,giuliomagnifico,2026-04-10 16:39:53
+47718458,Tech job relocation market is recovering. The competition is growing faster,technology,40,64,andrewstetsenko,2026-04-10 16:39:54
+47661038,Show HN: I built a navigation app that displays weather along the route,technology,55,25,vkatluri,2026-04-10 16:39:54
+47670981,"Three hundred synths, 3 hardware projects, and one app",technology,125,19,ductionist,2026-04-10 16:39:55
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,technology,230,28,MediaSquirrel,2026-04-10 16:39:55
+47699086,App Store sees 84% surge in new apps as AI coding tools take off,technology,65,74,gardaani,2026-04-10 16:39:55
+47676044,Show HN: Finalrun – Spec-driven testing using English and vision for mobile apps,technology,28,12,ashish004,2026-04-10 16:39:56
+47706113,"Desalination Technology, by the Numbers",technology,16,1,Brajeshwar,2026-04-10 16:39:57
+47703217,Apple signs meaningless deal to make some less-important parts in America,technology,35,16,als0,2026-04-10 16:39:57
+47713149,Apple to shutter its first unionized US store in Maryland,technology,18,5,golfer,2026-04-10 16:39:57
+47667504,Ask HN: How do you handle marketing as a solo technical founder?,technology,139,103,lazarkap,2026-04-10 16:39:57
+47701971,AI and remote work is a disaster for junior software engineers,technology,17,8,gpi,2026-04-10 16:39:58
+47661439,I won't download your app. The web version is a-ok,technology,925,561,ssiddharth,2026-04-10 16:39:58
+47674234,"""The new Copilot app for Windows 11 is really just Microsoft Edge""",technology,116,72,bundie,2026-04-10 16:39:59
+47694303,The demise of software engineering jobs has been greatly exaggerated,technology,19,5,ryan_j_naughton,2026-04-10 16:40:00
+47681602,Show HN: Mo – checks GitHub PRs against decisions approved in Slack,technology,10,3,oscarcaldera,2026-04-10 16:40:00
+47671527,Some iPhone Apps Receive Mysterious Update 'From Apple',technology,83,29,tosh,2026-04-10 16:40:00
+47652322,Music for Programming,entertainment,353,174,merusame,2026-04-10 16:40:10
+47699105,Show HN: Image to Music AI – Turn Any Photo into an Original Soundtrack,entertainment,5,3,airobus,2026-04-10 16:40:11
+47718891,Supply chain nightmare: How Rust will be attacked and what we can do to mitigate,AI,40,19,fanf2,2026-04-10 16:40:17
+47678844,Show HN: Marimo pair – Reactive Python notebooks as environments for agents,AI,93,22,manzt,2026-04-10 16:40:17
+47712656,We've raised $17M to build what comes after Git,AI,256,555,ellieh,2026-04-10 16:40:17
+47718114,US summons bank bosses over cyber risks from Anthropic's latest AI model,AI,57,31,ascold,2026-04-10 16:40:17
+47717587,OpenAI backs Illinois bill that would limit when AI labs can be held liable,AI,372,266,smurda,2026-04-10 16:40:17
+47719268,Born Private: Reserve your child's first email address with Proton,AI,11,8,teekert,2026-04-10 16:40:18
+47674950,An AI robot in my home,AI,61,28,kukanani,2026-04-10 16:40:18
+47713113,"The Raft consensus algorithm explained through ""Mean Girls"" (2019)",AI,119,27,vermilingua,2026-04-10 16:40:18
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,AI,238,262,speckx,2026-04-10 16:40:18
+47701233,Claude mixes up who said what,AI,446,339,sixhobbits,2026-04-10 16:40:18
+47710782,The Training Example Lie Bracket,AI,30,16,pb1729,2026-04-10 16:40:19
+47708817,Maine is about to become the first state to ban major new data centers,AI,291,414,rmason,2026-04-10 16:40:19
+47680023,Tailslayer: Library for reducing tail latency in RAM reads,AI,106,23,hasheddan,2026-04-10 16:40:19
+47708411,Bitmap fonts make computers feel like computers again,AI,107,80,speckx,2026-04-10 16:40:19
+47696035,John Deere to pay $99M in right-to-repair settlement,AI,387,127,CharlesW,2026-04-10 16:40:19
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,AI,424,194,nickvec,2026-04-10 16:40:19
+47704443,Study found that young adults have grown less hopeful and more angry about AI,AI,131,176,elsewhen,2026-04-10 16:40:20
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,AI,324,56,chrsw,2026-04-10 16:40:20
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,AI,213,213,bundie,2026-04-10 16:40:20
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,AI,18,15,Rial_Labs,2026-04-10 16:40:20
+47713732,First man convicted under Take It Down Act kept making AI nudes after arrest,AI,16,0,tzs,2026-04-10 16:40:20
+47715291,Scientists invented a fake disease. AI told people it was real,AI,83,86,latexr,2026-04-10 16:40:20
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",programming,29,3,larry-the-agent,2026-04-10 16:40:24
+47704285,Clean code in the age of coding agents,programming,57,85,yanis_t,2026-04-10 16:40:25
+47718804,"Bluesky users are mastering the fine art of blaming everything on ""vibe coding""",programming,19,5,ulrischa,2026-04-10 16:40:25
+47663147,Launch HN: Freestyle – Sandboxes for Coding Agents,programming,322,156,benswerd,2026-04-10 16:40:27
+47675155,You can't cancel a JavaScript promise (except sometimes you can),programming,97,61,goodoldneon,2026-04-10 16:40:30
+47683376,JSIR: A High-Level IR for JavaScript,programming,84,32,nnx,2026-04-10 16:40:30
+47697895,Building a JavaScript runtime in one month,programming,16,7,franciscop,2026-04-10 16:40:32
+47664912,The cult of vibe coding is dogfooding run amok,programming,615,508,drob518,2026-04-10 16:40:33
+47689135,The Empty Middle of AI Coding,programming,7,2,comma_at,2026-04-10 16:40:38
+47674056,Show HN: Bx – macOS native sandbox for AI and coding tools,programming,7,0,holtwick,2026-04-10 16:40:39
+47656335,Does coding with LLMs mean more microservices?,programming,63,61,jer0me,2026-04-10 16:40:39
+47708818,Native Instant Space Switching on macOS,science,593,288,PaulHoule,2026-04-10 16:40:42
+47706141,Research-Driven Agents: When an agent reads before it codes,science,199,52,hopechong,2026-04-10 16:40:42
+47712755,"Detox may erase 10 years of social media brain damage, researchers say",science,31,2,1vuio0pswjnm7,2026-04-10 16:40:45
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,2026-04-10 16:40:48
