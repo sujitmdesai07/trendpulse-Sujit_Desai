@@ -1,4 +1,4 @@
-# TrendPulse_collector.py
+# Task_1_TrendPulse_data_collection.py
 # Collect trending Hacker News stories, classify them, and store in JSON
 
 #Import essential libraries-----
